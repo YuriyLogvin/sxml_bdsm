@@ -5,6 +5,9 @@ sxml-based lib that can parse big XML using minimum memory
 
 Sourse https://github.com/capmar/sxml
 
+
+BDSM - Big Data Small Memory. Усе інші інтерпритації - то спекуляція.
+
 TODO:
 - language: English
 - мова програмування "С"
